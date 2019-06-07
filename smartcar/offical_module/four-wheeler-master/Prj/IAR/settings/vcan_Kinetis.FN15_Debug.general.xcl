@@ -1,0 +1,17 @@
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armproc.dll" 
+
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armjlink2.dll" 
+
+"D:\文件\智能车\第14届培训\相关软件\其他软件\山外K60参考代码V5.3（支持FX、FN和DNZ）\第六章\DMA_鹰眼摄像头OV7725串口显示\Prj\IAR\FN15_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\bin\armbat.dll" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\config\flashloader\Freescale\FlashK60Fxxx128K.board" 
+
+
+
+

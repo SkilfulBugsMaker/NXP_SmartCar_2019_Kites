@@ -1,0 +1,1 @@
+float GetAngle(float angle,float x_acc,float z_acc,float y_gyro);

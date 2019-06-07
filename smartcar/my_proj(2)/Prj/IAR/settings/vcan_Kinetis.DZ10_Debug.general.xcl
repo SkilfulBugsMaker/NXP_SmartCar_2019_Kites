@@ -1,0 +1,17 @@
+"D:\IAR\arm\bin\armproc.dll" 
+
+"D:\IAR\arm\bin\armJET.dll" 
+
+"C:\Users\65767\Desktop\smartcar\my_proj(2)\Prj\IAR\DZ10_Debug\Exe\vcan_Kinetis.out" 
+
+--plugin="D:\IAR\arm\bin\armbat.dll" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx.dmac" 
+
+--device_macro="D:\IAR\arm\config\debugger\NXP\Kxx_Trace.dmac" 
+
+--flash_loader="D:\IAR\arm\config\flashloader\NXP\FlashK60Dxxx128K.board" 
+
+
+
+
